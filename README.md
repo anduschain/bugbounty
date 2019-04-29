@@ -12,7 +12,7 @@
 
 
 ## 위험 평가 방법
-위험 평가는 OWASP에서 제시한 방법론을 채택하여 진행합니다. 
+위험 평가는 OWASP에서 제시한 방법론을 채택하여 취약점의 영향도와 발생 가능성을 토대로 진행합니다. 
 ![SEVERITY](https://github.com/anduschain/bugbounty/blob/master/img/severity.png)
 
 
